@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Shem Ogendi Kebabe
 
 ### 💻 Aspiring Software Engineer | Computer Science Student | Web Developer
@@ -7,7 +6,7 @@ I am a Computer Science student passionate about software development, technolog
 
 I enjoy turning ideas into functional applications, learning new technologies and continuously improving my programming skills.
 
-🌍 Based in Nairobi, Kenya.
+🌍 Nairobi, Kenya
 
 ---
 
@@ -27,19 +26,23 @@ I enjoy turning ideas into functional applications, learning new technologies an
 
 ### Programming Languages & Web Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-### Databases & Tools
+### Databases & Development Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
@@ -49,7 +52,8 @@ I enjoy turning ideas into functional applications, learning new technologies an
 
 A web-based project designed to modernise occurrence book management and improve digital incident reporting.
 
-**Key objectives:**
+**Key Features & Objectives:**
+
 - Digital incident reporting.
 - Unique occurrence book reference numbers.
 - Police officer dashboard.
@@ -70,11 +74,26 @@ My personal portfolio showcasing my background, technical skills, experience and
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShemKebabe&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShemKebabe&show_icons=true&theme=tokyonight&hide_border=true" alt="Shem's GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShemKebabe&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShemKebabe&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShemKebabe&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShemKebabe&theme=tokyonight&hide_border=true)
+---
+
+## 🐍 My GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShemKebabe/ShemKebabe/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShemKebabe/ShemKebabe/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ShemKebabe/ShemKebabe/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -92,17 +111,18 @@ My personal portfolio showcasing my background, technical skills, experience and
 
 I'm always interested in connecting with developers, learning from experienced professionals and exploring opportunities in technology.
 
-🌐 **Portfolio:** https://shem-portfolio-one.vercel.app/
+🌐 **Portfolio:** [Visit My Website](https://shem-portfolio-one.vercel.app/)
 
-💻 **GitHub:** https://github.com/ShemKebabe
+💻 **GitHub:** [ShemKebabe](https://github.com/ShemKebabe)
 
-📧 **Email:** ogendishem1@gmail.com
+📧 **Email:** [ogendishem1@gmail.com](mailto:ogendishem1@gmail.com)
 
 📍 **Location:** Nairobi, Kenya
 
 ---
 
-⭐ *"Building today, innovating tomorrow. Every line of code is an opportunity to learn something new."*
-
-
-
+<p align="center">
+  <b>⭐ Building today, innovating tomorrow.</b>
+  <br/>
+  Every line of code is an opportunity to learn something new.
+</p>
